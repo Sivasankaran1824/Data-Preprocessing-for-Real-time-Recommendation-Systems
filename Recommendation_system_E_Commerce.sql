@@ -1,5 +1,5 @@
 -- Create Databases
-CREATE DATABASE ECommerce;
+CREATE DATABASE ECommerce; 
 
 use ECommerce;
 
