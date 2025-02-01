@@ -1,6 +1,6 @@
 ## Data Analyst - E-Commerce Recommendation Engine
 
-# Description:
+# Description: 
 
 Dynamic and results-driven Data Analyst with expertise in developing and optimizing recommendation engines for e-commerce platforms. Proficient in leveraging SQL for data analysis, user segmentation, and recommendation generation to enhance user experience and drive sales.
 
